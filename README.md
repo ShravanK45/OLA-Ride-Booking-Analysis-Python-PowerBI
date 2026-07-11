@@ -126,7 +126,6 @@ OLA-Ride-Booking-Analysis
 ├── Dataset
 ├── Python EDA
 ├── Dashboard
-└── Screenshots
 ```
 
 ---
