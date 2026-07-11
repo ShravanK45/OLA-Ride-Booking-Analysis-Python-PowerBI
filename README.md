@@ -109,7 +109,11 @@ The interactive Power BI dashboard provides:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dashboard/Dashboard_Screenshot.png)
+![Dashboard Page 1](Dashboard/Ola_Dashboard_page-0001.jpg)
+![Dashboard Page 2](Dashboard/Ola_Dashboard_page-0002.jpg)
+![Dashboard Page 3](Dashboard/Ola_Dashboard_page-0003.jpg)
+![Dashboard Page 4](Dashboard/Ola_Dashboard_page-0004.jpg)
+![Dashboard Page 5](Dashboard/Ola_Dashboard_page-0005.jpg)
 
 ---
 
